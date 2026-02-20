@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @umk000me
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Diploma in computer engineering
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me umkhairnar207@gmail.com
+- 🌱 I Completed Diploma in computer engineering
+- 🤖 Currently pursuing BE in AI & DS (Artificial Intelligence & Data Science)
+- 🤝 Open to collaborating on innovative Web projects
+- 📫 How to reach me umkhairnar207@gmail.com, khairnarumesh685@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My friends call me UMK
 
