@@ -5,19 +5,33 @@ A passionate Web Developer | AI & Data Science Student from India 🇮🇳
  / khairnarumesh685@gmail.com
 
 🤝 Open for Collaboration, Projects and Learning Opportunities 🚀
+
 💡 About Me
+
 🔭 I’m currently working on AI-based Smart Attendance System
+
 🌱 I’m currently learning Artificial Intelligence, Data Science & Advanced Web Development
+
 👯 I’m looking to collaborate on Innovative Web and AI Projects
+
 🤔 I’m looking for help with AI, Machine Learning and Real-world Projects
+
 💬 Ask me about Web Development, Python, Flask, and AI Projects
+
 📫 How to reach me: umkhairnar207@gmail.com
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: My friends call me UMK
+
 🚀 Tech Stack
+
 Languages: Python, JavaScript, HTML, CSS
+
 Frameworks: Flask
+
 Tools: Git, GitHub, VS Code
+
 Technologies: AI, Face Recognition, OpenCV
 
 🌐 Connect with Me
