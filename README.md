@@ -18,7 +18,7 @@ A passionate Web Developer | AI & Data Science Student from India 🇮🇳
 
 💬 Ask me about Web Development, Python, Flask, and AI Projects
 
-📫 How to reach me: umkhairnar207@gmail.com
+📫 How to reach me: khairnarumesh685@gmail.com
 
 😄 Pronouns: He/Him
 
