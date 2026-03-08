@@ -24,21 +24,6 @@ A passionate Web Developer | AI & Data Science Student from India 🇮🇳
 
 ⚡ Fun fact: My friends call me UMK
 
-🚀 Tech Stack
-
-Languages: Python, JavaScript, HTML, CSS
-
-Frameworks: Flask
-
-Tools: Git, GitHub, VS Code
-
-Technologies: AI, Face Recognition, OpenCV
-
-🌐 Connect with Me
-
-💼 LinkedIn:
-https://www.linkedin.com/in/umesh-khairnar-50531b320/
-
 
 ## 🌐 Socials:
 
