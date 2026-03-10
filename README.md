@@ -40,9 +40,9 @@ A passionate Web Developer | AI & Data Science Student from India 🇮🇳
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umk000me&show_icons=true&theme=dark" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=umk000me&show_icons=true&theme=dark" height="165">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umk000me&theme=dark" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umk000me&theme=dark" height="165">
 
 </p>
 
