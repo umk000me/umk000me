@@ -38,14 +38,11 @@ A passionate Web Developer | AI & Data Science Student from India 🇮🇳
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umk000me&show_icons=true&theme=dark" height="165">
-<img src="https://streak-stats.demolab.com?user=umk000me&theme=dark" height="165">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=umk000me&show_icons=true&theme=dark)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umk000me&layout=compact&theme=dark">
-</p>
+![](https://streak-stats.demolab.com?user=umk000me&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umk000me&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=umk000me&theme=radical&no-frame=false&no-bg=false&margin-w=4)
