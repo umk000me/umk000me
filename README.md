@@ -22,7 +22,7 @@ A passionate Web Developer | AI & Data Science Student from India 🇮🇳
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: My friends call me UMK
+
 
 
 ## 🌐 Socials:
