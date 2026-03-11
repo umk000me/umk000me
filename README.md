@@ -8,15 +8,13 @@ A passionate Web Developer | AI & Data Science Student from India 🇮🇳
 
 💡 About Me
 
-🔭 I’m currently working on AI-based Smart Attendance System
-
 🌱 I’m currently learning Artificial Intelligence, Data Science & Advanced Web Development
 
 👯 I’m looking to collaborate on Innovative Web and AI Projects
 
 🤔 I’m looking for help with AI, Machine Learning and Real-world Projects
 
-💬 Ask me about Web Development, Python, Flask, and AI Projects
+💬 Ask me about Web Development and AI Projects
 
 📫 How to reach me: khairnarumesh685@gmail.com
 
